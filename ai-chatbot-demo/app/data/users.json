@@ -1,0 +1,27 @@
+[
+  {
+    "email": "think",
+    "history": [
+      {
+        "role": "user",
+        "content": "Maldives"
+      },
+      {
+        "role": "assistant",
+        "content": "Great choice! When are you planning to go to the Maldives?"
+      },
+      {
+        "role": "user",
+        "content": "To a beach"
+      },
+      {
+        "role": "assistant",
+        "content": "What dates are you considering for your trip to the Maldives?"
+      }
+    ],
+    "tripData": {
+      "destination": "Maldives",
+      "activity": "beach"
+    }
+  }
+]
